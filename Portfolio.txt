@@ -1,0 +1,93 @@
+Background Color - #070500 
+Primary Color - #FFBD33
+Secondar Color-#130C00
+Text Color -#FBF8F5
+Font-family-
+/*
+--- 01 Typography System
+-Font Size(px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+
+-Font Family
+Google Font : "Rubik"
+default : sans-serif
+
+-Font Weight
+default : 400
+heading-primary : 700
+
+-Line Height
+default : 1
+heading-primary : 1.1
+
+--- 02 Color
+-Primary : #e67e22;
+-Tints : #fdf2e9,
+-Shades : #b8651b,
+-Accents
+-Grays : #555 , #333;
+
+--- 03 Shadow
+
+
+
+--- 04 Border Radius
+default : 9px;
+
+
+--- 05 White Space
+
+
+
+-Spacing System(px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+
+*/
+
+**Summary:**
+Dynamic and motivated Full Stack Developer with a solid foundation in web development and a strong appetite for continuous learning. Proficient in HTML, CSS, JavaScript, Laravel, Bootstrap, and PHP. Successfully completed a comprehensive Food Order Project encompassing both server-side and client-side dynamics. Adept at exporting APIs to client servers through Postman. Possess advanced JavaScript ES-6 skills and currently progressing in React and Next.js for enhanced routing techniques. Fluent in English, actively acquiring N3 proficiency in Japanese, and equipped with a robust academic background in Electrical Engineering and Computer Science.
+
+**Skills:**
+- Languages: HTML5, CSS3, JavaScript (ES6), PHP
+- Frameworks: Laravel, React, Bootstrap
+- Libraries: React Hook, React Dom, Next.js
+- Tools: Postman
+- Version Control: Git
+- Databases: MySQL, MongoDB
+- UI/UX Design
+- Strong communication and teamwork
+- Fluent in English
+- Japanese: N3 proficiency, Japanese Language Proficiency Test N4 passed
+
+**Education:**
+Bachelor of Science in Electrical Engineering (Incomplete)
+[University Name], [City, State]
+- Explored computer science principles and C programming as a minor during the 4th year.
+
+**Professional Development:**
+
+*Food Order Project*
+- Designed and executed a robust Food Order Project, integrating server-side (Laravel, PHP) and client-side (HTML, CSS, JavaScript) functionalities.
+- Skillfully managed API exports to client servers using Postman, ensuring seamless data communication.
+- Created an efficient React-based food order system that supports adding and removing items from the cart via React Hook and React Dom.
+
+**Projects and Learning:**
+
+*React Advancements*
+- Progressively enhancing React and Next.js skills to optimize routing capabilities.
+- Consistently refining coding proficiency through practical project upgrades and exploration of advanced web development concepts.
+
+**Languages:**
+- English (Fluent)
+- Japanese (N3 proficiency), Japanese Language Proficiency Test N4 passed
+
+**Interests:**
+- Aspiring to become a proficient full stack developer
+- Keeping abreast of emerging technology trends
+- Engaging with tech blogs and news for continuous self-improvement
+
+**Academic Background:**
+- Distinguished academic performance in Electrical Engineering
+- Explored Computer Science and C programming during the 4th year, triggering a fascination with IT.
